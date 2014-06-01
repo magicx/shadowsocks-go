@@ -231,5 +231,5 @@ func (c *Cipher) Copy() *Cipher {
 		return &nc
 	}
 	
-	return
+	return nil
 }
