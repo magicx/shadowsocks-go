@@ -230,4 +230,6 @@ func (c *Cipher) Copy() *Cipher {
 		nc.dec = nil
 		return &nc
 	}
+	
+	return
 }
