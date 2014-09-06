@@ -5,17 +5,6 @@ import (
 	"errors"
 	"flag"
 	"fmt"
-
-
-
-
-
-
-
-
-
-
-
 	ss "github.com/magicx/shadowsocks-go/shadowsocks"
 	"io"
 	"log"
